@@ -56,9 +56,10 @@
   margin-bottom: 5px;
 }
 
-.Weather img {
+.Weather canvas {
   line-height: 64px;
-  margin-bottom: 38px;
+  margin-right: 5px;
+  display: inline-block;
 }
 
 .Weather .temperature {
