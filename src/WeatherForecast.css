@@ -3,6 +3,10 @@
 }
 
 .WeatherForecast-temperature-min {
-  opacity: 0.8;
-  margin-left: 5px;
+  opacity: 0.6;
+  margin-left: 3px;
+}
+
+.WeatherForecast-temperatures {
+  margin-top: 18px;
 }
